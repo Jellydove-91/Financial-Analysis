@@ -1,3 +1,4 @@
+<img width="996" height="452" alt="Dove-Grey Financial Analysis Dashboard" src="https://github.com/user-attachments/assets/15a695b4-d36b-42e3-a14a-90d704b21b58" />
 This dashboard presents a financial overview for a business (Dove-Grey), summarizing key performance metrics and trends.
 Top KPIs: Total revenue (₦126.8M), total profit (₦42.6M), average product cost (₦1.05M), profit margin (5.25), and total customers (80).
 Regional insights: Profit and revenue breakdown across cities like Abuja, Lagos, Ibadan, Benin, and Port Harcourt.
